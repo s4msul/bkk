@@ -1,0 +1,101 @@
+<link rel="stylesheet" href="http://192.168.1.103/simrs/assets/css/printing-A4.css" />
+<script type="text/javascript">
+    function cetak() {
+        setTimeout(function(){ window.close();},300);
+        window.print();    
+    }
+</script>
+<title>Surat Keterangan Bebas Narkoba</title>
+<style>
+    *{ font-size: 14px; font-family: "Times New Roman"}
+    .cek{
+        height: 20px;
+        border: 1px #000 solid; 
+        margin-right: 10px;
+    }
+</style>
+<body onload="cetak()">
+    <div class="page" style="padding-left:40px;padding-right:40px;padding-top:20px;">
+        <table width="100%" style="color: #000; border-bottom: 2px solid #000;">
+            <tr>  
+                <td align="center"><b style="font-size:14px;">Pemerintah Daerah Kabupaten Tangerang</b></td> 
+            </tr>
+             <tr>
+                <td align="center"><b style="font-size:14px;font-weight:bold;">RUMAH SAKIT UMUM</b></td>
+            </tr>
+            <tr><td align="center"><b>JL. JEND AHMAD YANI NO. 9 TANGERANG   SUKARASA</b></td> </tr>
+            <tr><td colspan="3" align="center"><b>TELP. 5523507, 5512948, 5513709,  FAX. (021) 5527104</td> </tr>
+        </table>
+        <br/>
+        <p style="text-align:center;font-size:14px;margin-bottom:0px;line-height:20px; ">
+            <span style="font-weight:bold;">SURAT KETERANGAN BEBAS NARKOBA</span>
+        </p>
+        <p style="margin-top:5px;text-align:center;font-weight:bold;">Nomor : 440/00499-SKBN/IPK</p>
+
+
+         <p align="justify">
+            Yang bertanda tangan di bawah ini, Dokter Penguji Kesehatan RSU KABUPATEN TANGERANG  
+            dengan ini menerangkan bahwa telah memeriksa seseorang :
+        </p>
+         <table width="100%" style="margin-left:50px;">
+            <tr><td width="20%">Nama</td><td width="5%" align="center">:</td><td width="75%">FERI SURACHMAN</td></tr>
+            <tr><td>Kelamin</td><td align="center">:</td><td>Laki-laki</td></tr>
+            <tr>
+                <td>Tanggal Lahir</td><td align="center">:</td>
+                <td>
+                    07/06/1982                </td>
+            </tr>
+            <tr><td>Pekerjaan</td><td align="center">:</td><td></td></tr>
+            <tr><td>Alamat</td><td align="center">:</td><td>Kp.Pos Bitung Rt001/003 Kadu Jaya Curug Tangerang</td></tr>
+            <tr><td></td><td align="center"></td><td>&nbsp;</td></tr>
+        </table>
+        <br/>
+        <p align="justify" style="line-height:20px;">
+           Atas permintaan sendiri<br/>
+           dengan surat tanggal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nomor<br/>
+           dan berpendapat bahwa berdasarkan pemeriksaan urine, saat ini<br/>
+           <i>Tidak Terdeteksi /  Terdeteksi zat-zat:</i>
+        </p>
+        <table width="100%" style="margin-left:50px;">
+                        <tr><td width="35%"><span class="cek">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Gol Amphetamin</td><td width="5%" align="center">:</td><td width="60%">Ectasy, Inex, CTC, Shabu-shabu</td></tr>
+                        <tr><td width="35%"><span class="cek">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Marijuana (THC)</td><td width="5%" align="center">:</td><td width="60%">Cimeng, Ganja, Gele</td></tr>
+                        <tr><td width="35%"><span class="cek">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Morfin</td><td width="5%" align="center">:</td><td width="60%">Putaw, Candu, Horse</td></tr>
+                    </table>
+
+         <p align="justify" style="line-height:20px;">
+            Catatan : Tinggi Badan <b style="font-weight:bold;">170</b> cm, Berat Badan <b style="font-weight:bold;">70</b> kg
+         </p>
+      
+        
+        <table width="100%" style="margin-top: 5em">
+             <tr>
+                <td width="70%" align="center"></td>
+                <td width="30%" align="left">Tangerang, 19 Maret 2015</td>
+            </tr>
+            <tr>
+                <td width="70%" align="center"></td>
+                <td width="30%" align="left">Dokter Penguji Kesehatan</td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">&nbsp;</td>
+            </tr>
+             <tr>
+                <td width="70%" align="left">Berlaku sampai : <b style="font-weight:bold;">17/05/2015</b></td>
+                <td width="30%" align="left" style="white-space: nowrap;">Dormasari Sipayung, Dr, MKM</td>
+            </tr>
+            <tr>
+                <td width="70%" align="left"></td>
+                 <td width="30%" align="left" style="white-space: nowrap;">NIP. 19611112 1989 03 2 002</td>
+            </tr>
+         </table>
+    </div>
+</body>
